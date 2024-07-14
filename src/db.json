@@ -1,0 +1,34 @@
+{
+  "seller": [
+    {
+      "id": "072b",
+      "name": "Pawan Raj",
+      "password": "abc@123",
+      "email": "pawan@seller.com"
+    },
+    {
+      "id": "a7a8",
+      "name": "pawan",
+      "password": "abc@123",
+      "email": "pawan@gmail.com"
+    },
+    {
+      "id": "6806",
+      "name": "pakjhgjk@gmail.com",
+      "password": "abc@123",
+      "email": "pawan@gmsil.com"
+    },
+    {
+      "id": "c627",
+      "name": "kjkll",
+      "password": "hbjnkml,",
+      "email": "vm,bjnkml,"
+    },
+    {
+      "id": "4cb8",
+      "name": "rjklkl",
+      "password": "gjlfnkml",
+      "email": "fkrjlkl"
+    }
+  ]
+}
